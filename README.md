@@ -1,14 +1,20 @@
-# darknet
+# darknet_ros
 
-这是经过catkin_make之后的darknet，但是不包括经过训练过后的网络权重。
+
+
+这是经过catkin_make之后的darknet_ros，但是不包括经过训练过后的网络权重。
 
 **在网上其他github上下载的代码可能会遇到各种各样的问题**
+
+
 
 ##参考github
 
 darknet_ros源代码 ： [leggedrobotics / darknet_ros](https://github.com/leggedrobotics/darknet_ros "darknet_ros源代码")
 
 我下载的源代码github地址及参考blog：[源代码](https://github.com/I-am-Unique/catkin_darknet )  [BLOG](https://blog.csdn.net/m0_38087936/article/details/85849748)
+
+
 
 ## 需要修改的地方
 
